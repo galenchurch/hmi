@@ -1,5 +1,7 @@
 # hmi
 
+Uses github.com/galenchurch/gobone for (beagleboard local) sysfs interactions
+
 ## API
 
 ### LEDs on/off
